@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elaine-shen/jupyter_test/HEAD?filepath=QIIME2-2019-7-moving-pictures.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/elaine-shen/jupyter_test/HEAD?filepath=IBD-Tutorial-QIIME2-CLI.ipynb)
 
 # jupyter_test
 
