@@ -1,4 +1,3 @@
-name: gemelli-demo
 channels:
   - qiime2/label/r2021.2
   - conda-forge
