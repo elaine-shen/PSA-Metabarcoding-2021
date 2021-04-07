@@ -22,7 +22,6 @@ Next, you’ll download the multiplexed reads. We are going to put these in it's
 
 ```
 mkdir emp-paired-end-sequences
-cd emp-paired-end-sequences
 ```
 
 ```
