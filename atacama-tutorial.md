@@ -2,6 +2,13 @@
 
 ## Setup
 
+We need to run these few lines of code for our Jupyter Binder to work (will not be necessary in your personal data analysis)
+
+```
+pip3 install git+https://github.com/regebro/tzlocal
+qiime dev refresh-cache
+```
+
 First, we are going to make a directory for our tutorial, as well as a directory for our raw, paired-end sequences.
 mkdir = make a directory (folder)
 cd = change directory
