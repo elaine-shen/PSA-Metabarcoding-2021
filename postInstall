@@ -1,8 +1,0 @@
-#!/bin/bash
-
-# Commenting out at the moment to see if this is why issues are arising
-# set -e
-
-# pip3 install git+https://github.com/regebro/tzlocal
-# qiime dev refresh-cache
-# jupyter nbconvert --ClearOutputPreprocessor.enabled=True --inplace notebooks/*.ipynb
