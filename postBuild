@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# install bash_kernel to Jupyter
+pip install jupter_client
+python -m bash_kernel.install
