@@ -1,5 +1,5 @@
 channels:
-  - qiime2/label/r2021.4
+  - qiime2/label/r2020.6
   - conda-forge
   - bioconda
   - defaults
