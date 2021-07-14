@@ -9,7 +9,9 @@
 
 💻 Additional helpful links:
 Qiime2 Documentation: https://docs.qiime2.org
+
 Qiime2 Help Forum: https://forum.qiime2.org/
+
 Qiime2 Viewing artifacts and visualization files: https://view.qiime2.org/
 
 
