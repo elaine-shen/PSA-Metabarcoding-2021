@@ -7,12 +7,6 @@
 
 :sos: Need help? For all of the Qiime2 outputs from this workshop, please visit this Google Drive folder: https://drive.google.com/drive/folders/1l52A69u8JPc3jq3oZlkPmwTpHb3b2Mf1?usp=sharing . Visualizations (.qzv files) can be viewed by dragging and dropping those files onto https://view.qiime2.org/. 
 
-💻 Additional helpful links:
-Qiime2 Documentation: https://docs.qiime2.org
-
-Qiime2 Help Forum: https://forum.qiime2.org/
-
-Qiime2 Viewing artifacts and visualization files: https://view.qiime2.org/
-
+💻 Additional helpful links: Qiime2 Documentation: https://docs.qiime2.org | Qiime2 Help Forum: https://forum.qiime2.org/ | Qiime2 Viewing: https://view.qiime2.org/
 
 ![alt text](https://github.com/elaine-shen/PSA-Metabarcoding-2021/blob/main/PSA_workshop_info.png)
